@@ -6,7 +6,7 @@
     'summary': """Academy app to manage Odoo Technical Training"""
     
     'description': """
-        Academy Module to manage training:
+    Academy Module to manage training:
         - Courses
         - Sessions
         - Attendees
